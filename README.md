@@ -5,6 +5,14 @@ A word generator that randomly returns german nouns.
 Copyright (C) 2016
 Carsten Lucke <coding@lucke.info>.
 
+```javascript
+var rndWord = require('random-noun-generator-german');
+
+// generate a random german noun
+console.log(rndWord());
+```
+
+
 This generator uses nouns taken form the dictionary file of the de_DE Hunspell dictionary	derived from the igerman98 dictionary (version: 20151222+frami20151222). This dictionary is licensed under the GPLv2, GPLv3.
 
 Copyright information for the dictionary:

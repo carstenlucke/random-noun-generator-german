@@ -1,6 +1,6 @@
 {
   "name": "random-noun-generator-german",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A word generator that randomly returns german nouns.",
   "main": "src/generator.js",
   "scripts": {
