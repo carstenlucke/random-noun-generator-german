@@ -13,8 +13,11 @@ console.log(rndWord());
 ```
 
 
-This generator uses nouns taken form the dictionary file of the de_DE Hunspell dictionary	derived from the igerman98 dictionary (version: 20151222+frami20151222). This dictionary is licensed under the GPLv2, GPLv3.
+The nouns used by this generator are taken from the dictionary file of the
+de_DE Hunspell dictionary derived from the igerman98 dictionary
 
-Copyright information for the dictionary:
-  - Copyright (C) 1998-2015 
-  - Bjoern Jacke <bjoern@j3e.de>.
+Version: 20151222+frami20151222
+
+Copyright (C) 1998-2015
+ Bjoern Jacke <bjoern@j3e.de>,
+ for the addon Franz Michael Baumann <fm.baumann@uni-muenster.de>
